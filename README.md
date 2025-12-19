@@ -22,7 +22,9 @@ The application allows users to perform **CRUD operations** (Create, Read, Updat
 
 ## Project Structure
 
+
 Student-Management-System/
+
 ├── main.py # Main program
 ├── README.md # Project documentation
 └── students.db # SQLite database (auto-created)
@@ -85,8 +87,6 @@ Demonstrates Python basics and OOPS concepts
 Shows practical SQL knowledge
 
 Author
-
 P.Induja
-
 GitHub: \[https://github.com/induja1203/Student-Management-System]
 
