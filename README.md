@@ -86,7 +86,7 @@ Shows practical SQL knowledge
 
 Author
 
-Your Name – P.Induja
+P.Induja
 
 GitHub: \[https://github.com/induja1203/Student-Management-System]
 
